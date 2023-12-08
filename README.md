@@ -7,7 +7,6 @@ The `local_database` repository is dedicated to a project focused on developing 
 ## Supported Database Technologies
 
 ### 1. Hive
-![Uploading hive.png…]()
 
 ![hive](https://github.com/Amitmasram/local_database/assets/105006236/36ecbf2a-3e3d-422a-a4d2-a8c402241949)
 
@@ -15,13 +14,13 @@ The `local_database` repository is dedicated to a project focused on developing 
 
 ### 2. SharedPreferences
 
-![SharedPreferences Image](link_to_sharedpreferences_image.png)
+![sharedpref](https://github.com/Amitmasram/local_database/assets/105006236/72ed9d89-6b05-4219-9e19-572a99a827d5)
 
 [SharedPreferences](https://pub.dev/packages/shared_preferences) is a key-value pair storage solution, perfect for storing simple data persistently.
 
 ### 3. Sqflite
+![sqflite](https://github.com/Amitmasram/local_database/assets/105006236/f75a9fdc-cb00-4670-afb4-9a95c17a4d06)
 
-![Sqflite Logo](link_to_sqflite_logo.png)
 
 [Sqflite](https://pub.dev/packages/sqflite) is a SQLite plugin for Flutter, providing a simple and high-performance local database solution.
 
