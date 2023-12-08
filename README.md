@@ -1,6 +1,6 @@
 # Local Database
 
-![Database Image](link_to_database_image.png)
+![db](https://github.com/Amitmasram/local_database/assets/105006236/d99eb02b-7b40-4065-91a4-34954d1ecb48)
 
 The `local_database` repository is dedicated to a project focused on developing and maintaining a local database system. A local database is crucial for applications that require efficient data storage and retrieval within a confined environment, such as a single device or a local network.
 
