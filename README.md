@@ -7,8 +7,9 @@ The `local_database` repository is dedicated to a project focused on developing 
 ## Supported Database Technologies
 
 ### 1. Hive
+![Uploading hive.png…]()
 
-![Hive Logo](link_to_hive_logo.png)
+![hive](https://github.com/Amitmasram/local_database/assets/105006236/36ecbf2a-3e3d-422a-a4d2-a8c402241949)
 
 [Hive](https://docs.hivedb.dev/) is a lightweight and fast NoSQL database for Flutter applications.
 
